@@ -14,7 +14,7 @@ while [ $finished -ne 1 ]; do
     echo "What is your favourite Linux distribution?"
 
 
-    read distro;
+    read distro
 
     case $distro in 
         1) echo "Arch is a rolling release.";;
