@@ -1,0 +1,48 @@
+building file list ... done
+created directory ./backup/current
+logfiles/
+logfiles/cpu.log
+logfiles/cpu.log.tar.gz
+logfiles/dockererrors.log
+logfiles/dockererrors.log.tar.gz
+logfiles/gpu.log
+logfiles/gpu.log.tar.gz
+logfiles/movies.log
+logfiles/movies.log.tar.gz
+logfiles/recipes.log
+logfiles/recipes.log.tar.gz
+
+sent 373 bytes  received 86 bytes  918.00 bytes/sec
+total size is 601  speedup is 1.31
+building file list ... done
+created directory backup/current
+logfiles/
+logfiles/cpu.log
+logfiles/cpu.log.tar.gz
+logfiles/dockererrors.log
+logfiles/dockererrors.log.tar.gz
+logfiles/gpu.log
+logfiles/gpu.log.tar.gz
+logfiles/movies.log
+logfiles/movies.log.tar.gz
+logfiles/recipes.log
+logfiles/recipes.log.tar.gz
+
+sent 373 bytes  received 86 bytes  918.00 bytes/sec
+total size is 601  speedup is 1.31
+building file list ... done
+created directory backup/current
+logfiles/
+logfiles/cpu.log
+logfiles/cpu.log.tar.gz
+logfiles/dockererrors.log
+logfiles/dockererrors.log.tar.gz
+logfiles/gpu.log
+logfiles/gpu.log.tar.gz
+logfiles/movies.log
+logfiles/movies.log.tar.gz
+logfiles/recipes.log
+logfiles/recipes.log.tar.gz
+
+sent 1354 bytes  received 246 bytes  3200.00 bytes/sec
+total size is 601  speedup is 0.38
